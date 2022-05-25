@@ -14,7 +14,7 @@ mock==3.0.5
 psycopg2==2.8.4
 pycodestyle==2.5.0
 pycparser==2.19
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-decouple==3.3
 pytz==2019.3
 six==1.13.0
